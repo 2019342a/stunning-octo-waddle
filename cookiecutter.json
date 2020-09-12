@@ -1,0 +1,13 @@
+{
+  "project_name": "Dummy project",
+  "project_slug": "{{ cookiecutter.project_name.lower()|replace(' ', '_')|replace('-', '_')|replace('.', '_')|trim() }}",
+  "description": "A template project",
+  "author_name": "Theofilos Alexiou",
+  "open_source_license": [
+    "MIT",
+    "BSD",
+    "GPLv3",
+    "Apache Software License 2.0",
+    "Not open source"
+  ]
+}

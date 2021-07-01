@@ -3,4 +3,4 @@ cookiecutter==1.7.3  # https://github.com/cookiecutter/cookiecutter
 
 # Code quality
 flake8==3.9.2  # https://github.com/PyCQA/flake8
-black==21.5b2  # https://github.com/ambv/black
+black==21.6b0  # https://github.com/ambv/black

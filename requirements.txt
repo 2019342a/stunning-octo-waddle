@@ -1,4 +1,4 @@
-cookiecutter==1.7.3  # https://github.com/cookiecutter/cookiecutter
+cookiecutter==2.1.1  # https://github.com/cookiecutter/cookiecutter
 
 
 # Code quality

@@ -2,5 +2,5 @@ cookiecutter==2.1.1  # https://github.com/cookiecutter/cookiecutter
 
 
 # Code quality
-flake8==4.0.1  # https://github.com/PyCQA/flake8
+flake8==5.0.2  # https://github.com/PyCQA/flake8
 black==22.6.0  # https://github.com/ambv/black
